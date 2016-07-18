@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "CLTokenInputView.h"
+#import <CLTokenInputView/CLTokenInputView.h>
 
 @interface CLTokenInputViewController : UIViewController <CLTokenInputViewDelegate, UITableViewDataSource, UITableViewDelegate>
 

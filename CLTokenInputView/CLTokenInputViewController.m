@@ -8,7 +8,7 @@
 
 #import "CLTokenInputViewController.h"
 
-#import "CLToken.h"
+#import <CLTokenInputView/CLToken.h>
 
 @interface CLTokenInputViewController ()
 
