@@ -76,7 +76,6 @@
 		62A9EEDC1ECDEAC4001B3C2E /* CLAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLAppDelegate.h; sourceTree = "<group>"; };
 		62A9EEDD1ECDEAC4001B3C2E /* CLAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLAppDelegate.m; sourceTree = "<group>"; };
 		62A9EEDE1ECDEAC4001B3C2E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		62A9EEDF1ECDEAC4001B3C2E /* CLTokenInputView-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CLTokenInputView-Prefix.pch"; sourceTree = "<group>"; };
 		62A9EEE01ECDEAC4001B3C2E /* CLTokenInputViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CLTokenInputViewController.h; sourceTree = "<group>"; };
 		62A9EEE11ECDEAC4001B3C2E /* CLTokenInputViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CLTokenInputViewController.m; sourceTree = "<group>"; };
 		62A9EEE21ECDEAC4001B3C2E /* CLTokenInputViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CLTokenInputViewController.xib; sourceTree = "<group>"; };
@@ -153,7 +152,6 @@
 			children = (
 				62A9EEDC1ECDEAC4001B3C2E /* CLAppDelegate.h */,
 				62A9EEDD1ECDEAC4001B3C2E /* CLAppDelegate.m */,
-				62A9EEDF1ECDEAC4001B3C2E /* CLTokenInputView-Prefix.pch */,
 				62A9EEE01ECDEAC4001B3C2E /* CLTokenInputViewController.h */,
 				62A9EEE11ECDEAC4001B3C2E /* CLTokenInputViewController.m */,
 				62A9EEE21ECDEAC4001B3C2E /* CLTokenInputViewController.xib */,
