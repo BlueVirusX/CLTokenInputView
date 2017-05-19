@@ -1,0 +1,6 @@
+framework module CLTokenInputView {
+  umbrella header "CLTokenInputViewFramework.h"
+
+  export *
+  module * { export * }
+}
